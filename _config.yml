@@ -9,5 +9,5 @@ include:
   - _pages
 
 # Configuración para GitHub Pages (si lo subirás a GitHub)
-url: "https://Sagarinnus.github.io"  # Cambia esto
+url: "https://sagarinnus.github.io/Abisales_Wiki/"  # Cambia esto
 baseurl: "https://sagarinnus.github.io/Abisales_Wiki/"  # Deja vacío si es tu sitio principal (user.github.io)
