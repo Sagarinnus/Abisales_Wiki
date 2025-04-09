@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Personajes
-permalink: /personajes/
+permalink: {{ site.baseurl }}/personajes/
 ---
 
 <h2>Mis Personajes</h2>
