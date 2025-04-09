@@ -1,6 +1,6 @@
 # _config.yml
 title: Abisal Wiki
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
