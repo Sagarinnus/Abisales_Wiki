@@ -1,9 +1,9 @@
 # _data/navigation.yml
 - name: Inicio
-  link: /
+  link: {{ site.baseurl }}/
 - name: Personajes
   link: /Abisales_Wiki/personajes/
 - name: Acerca
-  link: /about/
+  link: {{ site.baseurl }}/about/
 - name: Contacto
-  link: /contact/
+  link: {{ site.baseurl }}/contact/
